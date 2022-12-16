@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * more_numbers - print more numbers
+ * more_numbers - print more num
  */
-
 void more_numbers(void)
 {
 	int i, j;
@@ -18,3 +17,4 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 	}
+}
